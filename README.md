@@ -20,7 +20,6 @@ cd Todo-list
 ```
 __Instalando as dependências__
 
-```shell
 npm install
 ```
 __Inicializando__
