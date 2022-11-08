@@ -1,6 +1,7 @@
 # Todo List
 
 To do list básico em React
+Layout Figma: https://www.figma.com/file/4erbomHC09cjrvV86jQTUo/Untitled?node-id=0%3A1
 
 ## 🚀 Começando
 
@@ -18,6 +19,7 @@ cd Todo-list
 
 ```
 __Instalando as dependências__
+
 ```shell
 npm install
 ```
